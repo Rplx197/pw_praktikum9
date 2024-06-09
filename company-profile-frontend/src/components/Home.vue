@@ -7,7 +7,7 @@
 <script>
 import axios from "axios";
 export default {
-  name: "Home",
+  name: "MyHome",
   data() {
     return {
       profile: {},
